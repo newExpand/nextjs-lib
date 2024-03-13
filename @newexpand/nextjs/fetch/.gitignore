@@ -2,8 +2,8 @@
 .DS_Store
 node_modules
 
-src/**
-dist/**
+src
+dist
 .npmignore
 
 tsconfig.build.json
