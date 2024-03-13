@@ -1,3 +1,11 @@
 .next
 .DS_Store
 node_modules
+
+src/**
+dist/**
+.npmignore
+
+tsconfig.build.json
+tsconfig.json
+tsup.config.ts
