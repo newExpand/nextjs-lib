@@ -1,4 +1,4 @@
-※ This document is based on version 1.0.8.
+※ This document is based on version 1.0.9.
 
 # newexpand-nextjs-fetch
 

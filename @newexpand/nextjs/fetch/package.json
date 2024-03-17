@@ -1,6 +1,6 @@
 {
   "name": "newexpand-nextjs-fetch",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "extend nextjs fetch api",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/newExpand/nextjs-lib/tree/main/%40newexpand/nextjs/fetch"
+    "url": "https://github.com/newExpand/nextjs-lib/tree/main/@newexpand/nextjs/fetch"
   },
   "devDependencies": {
     "@types/node": "20.11.25",
